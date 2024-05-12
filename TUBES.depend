@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1703165999 source:c:\users\asus\videos\tubes\main.cpp
+	<iostream>
+	"catering.h"
+
+1703165877 c:\users\asus\videos\tubes\catering.h
+	<iostream>
+
+1703169437 source:c:\users\asus\videos\tubes\catering.cpp
+	<iostream>
+	"catering.h"
+
